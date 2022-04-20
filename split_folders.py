@@ -1,4 +1,4 @@
 import splitfolders
-splitfolders.ratio(r'C:\Users\nelso\My Drive (nelsonh@mit.edu)\Vision Dataset\imagenet-50',
-                   output=r'C:\Users\nelso\My Drive (nelsonh@mit.edu)\Vision Dataset\imagenet-50-splits',
-                   seed=1337, ratio=(.8, 0.0,0.2))
+splitfolders.ratio(r'C:\Users\nelso\Downloads\Imagenet-10-1500',
+                   output=r'C:\Users\nelso\Downloads\Imagenet-10-1500-splits',
+                   seed=1337, ratio=(.9, 0.0,0.1))

@@ -1,3 +1,5 @@
+# The following python code may be used to save the occluded version of the testing set
+
 import matplotlib.image
 import tensorflow as tf
 import os

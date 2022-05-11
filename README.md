@@ -13,7 +13,7 @@ The following research report was submitted as part of the final project in 9.60
 Please, if using the algorithms developed in this repository, please cite our work as:
 
 ```
-@inproceedings
+@misc
 {960magnoparvo,
     author = {Hidalgo, Nelson and Umoren, Aniekan and Cook, Aidan},
     year = {2022},
